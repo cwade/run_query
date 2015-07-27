@@ -1,0 +1,4 @@
+database:
+    username: "username"
+    password: "password"
+    host: "(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=server.school.edu)(PORT=1521)))(CONNECT_DATA=(SID=DBNAME)))"

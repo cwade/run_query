@@ -1,0 +1,3 @@
+    SELECT FOO, BAR
+      FROM TABLEA
+     WHERE FOO > 3
